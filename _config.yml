@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kemele M. Endris"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kemele M. Endris"
+description              : &description "Research Associate at L3S Research Center, Hannover, Germany. Interested in Data Science, Semantic Data Lakes, Semantic Data Integration and Management"
+url                      : https://kemele.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kemele.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,41 +80,42 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kemele M. Endris"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Associate at Join Lab L3S Research Center and TIB Leibniz Information Center Science & Technology. Working on Semantic Data Lakes, Data Science, Knowledge Graphs, etc"
+  location         : "Hannover, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  pubmed           :   # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.de/citations?user=KJKcA2UAAAAJ&hl=en"
+  email            : "kemele.endris-at-tib.eu
+  researchgate     :  "https://www.researchgate.net/profile/Kemele_Endris2"
+  uri              : "https://www.tib.eu/en/research-development/data-science-digital-libraries/staff/kemele-endris/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kemele"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/keme686/"
+  orcid            : "https://orcid.org/0000-0001-9040-9421"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kemelem"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  wikidata         : "https://www.wikidata.org/wiki/User:Kemele.endris"
 
 
 # Reading Files
