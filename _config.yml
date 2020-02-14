@@ -11,9 +11,9 @@ title                    : "Kemele M. Endris"
 title_separator          : "-"
 name                     : &name "Kemele M. Endris"
 description              : &description "Research Associate at L3S Research Center, Hannover, Germany. Interested in Data Science, Semantic Data Lakes, Semantic Data Integration and Management"
-url                      : https://kemele.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://keme686.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kemele.github.io"
+repository               : "keme686.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kemele"
+  github           : "keme686"
   google_plus      :
   keybase          :
   instagram        :
